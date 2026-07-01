@@ -78,7 +78,7 @@ export default function HomePage() {
       <section className="py-20" style={{ backgroundColor: '#EFF6FF' }}>
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl font-bold mb-6" style={{ color: '#1F2937' }}>Ready to Get Started?</h2>
-          <p className="text-xl mb-10" style={{ color: '#6B7280' }}>Join thousands of people who trust Resource Hub for clear, unbiased guidance.</p>
+          <p className="text-xl mb-10" style={{ color: '#6B7280' }}>Join thousands of people who trust Very Resourceful for clear, unbiased guidance.</p>
           <Link href="/signup" className="px-10 py-5 text-white text-xl font-semibold rounded-lg shadow-lg transition-opacity hover:opacity-90" style={{ backgroundColor: '#1D4ED8' }}>
             Explore Resources
           </Link>
