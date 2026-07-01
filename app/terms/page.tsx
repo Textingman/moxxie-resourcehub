@@ -16,23 +16,23 @@ export default function TermsPage() {
         <div className="prose prose-lg max-w-none">
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>1. Acceptance of Terms</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            By accessing or using Resource Hub's service ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not access or use the Service.
+            By accessing or using Very Resourceful's service ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not access or use the Service.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>2. Description of Service</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            Resource Hub provides an AI-powered information and education service accessible through www.resourcehubai.com. The Service is intended for informational purposes only and does not constitute professional advice.
+            Very Resourceful provides an AI-powered information and education service accessible through www.veryresourceful.com. The Service is intended for informational purposes only and does not constitute professional advice.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>3. SMS Communications</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>
-            By opting in to SMS communications, you agree to receive text messages from Resource Hub. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@resourcehubai.com.
+            By opting in to SMS communications, you agree to receive text messages from Very Resourceful. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@veryresourceful.com.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>4. Limitation of Liability</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            Resource Hub shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service.
+            Very Resourceful shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>5. Contact</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            For questions about these Terms, contact us at support@resourcehubai.com or 8 The Green, Ste A, Dover, DE 19901.
+            For questions about these Terms, contact us at support@veryresourceful.com or 8 The Green, Ste A, Dover, DE 19901.
           </p>
         </div>
       </section>
