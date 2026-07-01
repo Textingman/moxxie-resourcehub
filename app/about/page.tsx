@@ -20,7 +20,7 @@ export default function AboutPage() {
               An AI Agent Built to Help,<br />Not to Sell
             </h1>
             <p className="text-xl max-w-3xl mx-auto" style={{ color: '#6B7280' }}>
-              Resource Hub is an AI-powered platform that guides individuals with honest, unbiased information. We're not a broker or salesperson. We're your independent advisor.
+              Very Resourceful is an AI-powered platform that guides individuals with honest, unbiased information. We're not a broker or salesperson. We're your independent advisor.
             </p>
           </div>
         </div>
