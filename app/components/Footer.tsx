@@ -46,7 +46,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <p style={{ color: '#BFDBFE' }}>support@veryresourceful.com</p>
-            <p className="mt-2" style={{ color: '#BFDBFE' }}>8 The Green, Ste A, Dover, DE 19901</p>
+            <p className="mt-2" style={{ color: '#BFDBFE' }}>4 Peddlers Row #1068, Newark, DE 19702</p>
             <p className="mt-2" style={{ color: '#BFDBFE' }}>(833) 729-1045</p>
           </div>
         </div>
