@@ -24,14 +24,14 @@ export default function PrivacyPage() {
             <li>Full name and contact information (email address, phone number)</li>
             <li>Location information (city/state)</li>
             <li>Questions and information you share with our AI agent</li>
-            <li>SMS opt-in consent preferences (account notifications and/or customer care)</li>
+            <li>SMS opt-in consent preferences (account notifications and/or promotional marketing)</li>
           </ul>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>3. SMS Messaging</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>
             If you opt in to receive SMS messages from Very Resourceful, the following terms apply:
           </p>
           <ul className="list-disc pl-6 mb-6 space-y-2" style={{ color: '#6B7280' }}>
-            <li>You may receive Account Notification messages and/or Customer Care messages depending on your opt-in selections.</li>
+            <li>You may receive Account Notification messages and/or Promotional Marketing messages depending on your opt-in selections.</li>
             <li>Message and data rates may apply. Message frequency varies.</li>
             <li>To opt out, reply STOP to any message. To get help, reply HELP or contact us at support@veryresourceful.com.</li>
             <li><strong>No mobile information will be shared with or sold to third parties for marketing or promotional purposes.</strong></li>

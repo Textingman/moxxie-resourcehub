@@ -26,6 +26,15 @@ export default function TermsPage() {
           <p className="mb-4" style={{ color: '#6B7280' }}>
             By opting in to SMS communications, you agree to receive text messages from Very Resourceful. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@veryresourceful.com.
           </p>
+          <ul className="list-disc pl-6 mb-6 space-y-2" style={{ color: '#6B7280' }}>
+            <li><strong>Account Notifications:</strong> Transactional messages related to your account activity, service updates, and important notices.</li>
+            <li><strong>Promotional Marketing:</strong> Messages about offers, updates, and promotions from Very Resourceful.</li>
+            <li>Both programs are optional. You may opt in to one, both, or neither.</li>
+            <li>To opt out of any program, reply <strong>STOP</strong> to any message from that program.</li>
+            <li>To get help, reply <strong>HELP</strong> or contact <a href="mailto:support@veryresourceful.com" style={{ color: '#1D4ED8' }}>support@veryresourceful.com</a>.</li>
+            <li>Message and data rates may apply. Message frequency varies by program and user activity.</li>
+            <li><strong>No mobile information will be shared with or sold to third parties for marketing or promotional purposes.</strong></li>
+          </ul>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>4. Limitation of Liability</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
             Very Resourceful shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service.
